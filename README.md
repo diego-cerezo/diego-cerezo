@@ -6,12 +6,6 @@ I’m a Full Stack Developer graduated from Ironhack Madrid, proficient in a var
 
 <div style="background-color: #e62e1b; padding: 20px; border-radius: 10px; display: inline-block;">
 <table>
-  <thead>
-    <tr>
-      <th>Skills</th>
-      <th>Technologies</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td>JavaScript</td>
