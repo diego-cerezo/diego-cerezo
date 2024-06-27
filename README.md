@@ -4,7 +4,7 @@ I’m a Full Stack Developer graduated from Ironhack Madrid, proficient in a var
 
 ## Skills & Technologies
 
-<div align="center">
+<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; display: inline-block;">
 <table>
   <thead>
     <tr>
