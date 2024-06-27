@@ -1,14 +1,41 @@
-# Hey, I´m Diego!
+# Hey, I’m Diego!
 
-I´m a Full Stack Developer graduated at Ironhack Madrid, with proficiency in:
+I’m a Full Stack Developer graduated from Ironhack Madrid, proficient in a variety of modern technologies and frameworks. My expertise spans both front-end and back-end development, allowing me to create comprehensive and efficient applications.
 
-| Skills       | Technologies                     |
-|--------------|----------------------------------|
-| JavaScript   | React JS                         |
-| HTML         | NodeJS                           |
-| CSS          | ExpressJS                        |
-| Git          | MongoDB                          |
-| GitHub       | Mongoose                         |
+## Skills & Technologies
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Skills</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>JavaScript</td>
+      <td>React JS</td>
+    </tr>
+    <tr>
+      <td>HTML</td>
+      <td>NodeJS</td>
+    </tr>
+    <tr>
+      <td>CSS</td>
+      <td>ExpressJS</td>
+    </tr>
+    <tr>
+      <td>Git</td>
+      <td>MongoDB</td>
+    </tr>
+    <tr>
+      <td>GitHub</td>
+      <td>Mongoose</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ## Ironhack Projects
 
