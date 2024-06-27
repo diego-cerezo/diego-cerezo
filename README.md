@@ -29,4 +29,4 @@ I’m a Full Stack Developer graduated from Ironhack Madrid, proficient in a var
 [Wave Jet](https://wave-jet.netlify.app/) is a web application developed for a private jet operator. This project utilizes a modern tech stack with React.js (frontend), MongoDB, Node.js, and Express.js (backend) for a seamless user experience. Clients can sign up, log in, search for routes and available aircraft, and conveniently book flights directly through the platform.
 
 ### Dino Game
-[Dino Game](https://diego-cerezo.github.io/dino-game/) is a browser-based game created using HTML, CSS, JavaScript, DOM manipulation, and Object-Oriented Programming (OO
+[Dino Game](https://diego-cerezo.github.io/dino-game/) is a browser-based game created using HTML, CSS, JavaScript, DOM manipulation, and Object-Oriented Programming.
